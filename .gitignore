@@ -1,0 +1,12 @@
+*.swp
+*~
+*.pyc
+/data
+#latex
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.pdf
+*.tex.latexmain
